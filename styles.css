@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #a0e7fb;
+    background-color:#a6c7f9;
     text-align: center;
 }
 
@@ -10,13 +10,13 @@ body {
 }
 
 .container {
-    background-color: #f9c1d6;
+    background-color: #a9f5d1;
     margin: 20px auto;
     padding: 15px;
-    border: 2px solid #ddd;
+    border: 2px solid #040d08;
     width: 300px;
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(100, 92, 168, 0.1);
 }
 
 .inputs, .output {
@@ -25,18 +25,18 @@ body {
 
 .text {
     font-weight: bold;
-    color: #333;
+    color: #0c0808;
 }
 
 .input, .result {
     display: inline-block;
     margin: 0 10px;
     padding: 5px 10px;
-    background-color: #eee;
+    background-color: #cbaed3;
     border-radius: 4px;
 }
 
 .result {
-    background-color: #00d1b2; /* Verde si es 1 */
-    color: white;
+    background-color: #13c61f; /* Verde si es 1 */
+    color: rgb(6, 3, 3);
 }
